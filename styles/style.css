@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style:none;
+	list-style:none;
+	border: none;
+	outline: none;
+}
+
+body {
+    margin: 10%;
+}
+
+body, html {
+	width:100%;
+	height:100%;
+}
+
+.navbar-custom{
+	background-color: #fff;
+}
+
+.bg-section-primary{
+    background-color: #F8F9FA;
+}
+
+.btn{
+    background-color: #2937F0;
+}
